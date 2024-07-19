@@ -2,9 +2,7 @@
 session_start();
 
 
-$connect = new PDO("mysql:host=localhost;dbname=msg_oyumino_db;charset=utf8mb4", "root", "A-QVPpTF7v8M");
 
-$dsn = 'pgsql:dbname=animalnoteoyumino host=133.18.4.55 port=5432';
 $user = 'postgres';
 $password = '';
 

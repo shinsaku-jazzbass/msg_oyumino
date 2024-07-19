@@ -1,4 +1,5 @@
 config/
+test/
 database_connection.php
 database_connect_pgsql.php
 database_pgmy_conv01.php
